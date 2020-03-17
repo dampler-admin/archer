@@ -3,7 +3,7 @@ from random import random
 N = 999999
 X = 999999
 arr = [0]*N
-arr2 = []*X
+arr2 = [0]*X
 even = []
 for i in range(N):
     arr[i] = int(random() * 10) + 10
