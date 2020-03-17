@@ -9,7 +9,7 @@ for i in range(N):
     arr[i] = int(random() * 10) + 10
     if arr[i] % 2 == 0:
         even.append(i)
-for i in range(N):
+for i in range(X):
     arr2[i] = int(random() * 10) + 10
     if arr[i] % 2 == 0:
         even.append(i)
